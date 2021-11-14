@@ -1,0 +1,5 @@
+argparse
+numpy
+opencv-python
+opencv-contrib-python
+json
